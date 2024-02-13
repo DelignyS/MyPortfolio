@@ -1,5 +1,7 @@
 const Homepage = () => {
-  return <div>Hello World</div>;
+  return <div className="">{/* IMAGES CONTAINER */}
+  <div className=""></div>
+  </div>;
 };
 
 export default Homepage;
