@@ -10,9 +10,9 @@ const Homepage = () => {
       {/* TEXT CONTAINER */}
       <div className="h-1/2 lg:h-full lg:w-1/2 flex flex-col gap-8 items-center justify-center">
         {/* TITLE */}
-        <h1 className="text-4xl md:text-6xl font-bold">Building Some Next.JS Experiences can be a serious pain in the A**</h1>
+        <h1 className="text-4xl md:text-6xl font-bold text-center">Building my Journey in frontend Developpement</h1>
         {/* DESCRIPTION */}
-        <p className="md:text-xl">Welcome to my portfolio. Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ducimus optio ad ratione saepe enim voluptates dolor facilis earum nesciunt omnis ipsum ex doloribus nemo tempore, sapiente, voluptate corrupti qui corporis dolores est dolore, illum quibusdam! Sunt explicabo molestiae quia doloremque! Quod eveniet expedita quos doloribus cumque necessitatibus corrupti quibusdam! </p>
+        <p className="md:text-xl">Welcome to my portfolio.  </p>
         {/* BUTTONS */}
         <div className="flex gap-4 w-full">
           <button className="p-4 rounded-lg ring-1 ring-black bg-black text-white">Showcase</button>
