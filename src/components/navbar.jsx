@@ -1,9 +1,11 @@
 "use client";
+
+import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
-import Image from "next/image";
 import NavLink from "./navLink";
 import { motion } from "framer-motion";
+
 const links = [
   { url: "/", title: "Home" },
   { url: "/about", title: "About" },
